@@ -1,0 +1,15 @@
+h1 {
+    color:royalblue;
+    text-align:center;
+    border:solid sandybrown 3px;
+    border-radius: 50px 20px ;
+    background-color: sandybrown;
+}
+
+img {
+    display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border:sandybrown solid 3px;
+            border-radius: 50px 20px ;
+}
